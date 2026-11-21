@@ -50,4 +50,4 @@ This is the organization's `.github` repository. It holds the default community 
 - Keep changes focused on the requested task; do not reformat unrelated content.
 - Any change here affects every repository of the organization that does not override the file: keep the content generic, not specific to Terraform modules unless marked as such (e.g. "if applicable").
 - `CONTRIBUTING.md` and `.github/pull_request_template.md` are also copied as-is into `module-template` and the module repositories: when you change them, mention in your summary that those copies must be updated too.
-- Issue templates in `.github/ISSUE_TEMPLATE/` start with a YAML front matter block (`name`, `about`, `label`); keep it valid.
+- Issue templates in `.github/ISSUE_TEMPLATE/` start with a YAML front matter block (`name`, `about`, `labels`); keep it valid.
